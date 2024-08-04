@@ -1,0 +1,7 @@
+goal: fswd.how build a node proj myself and implement crud apis.
+
+- yarn init -y
+- yarn add express
+- crreate a db.js file to build the database connection
+- create the server in index.js file
+- start to build routes
